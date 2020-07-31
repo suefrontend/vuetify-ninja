@@ -38,27 +38,27 @@ export default {
 				{
 					name: 'The Net Ninja',
 					role: 'Designer',
-					avatar: '/avatar-1.png',
+					avatar: './avatar-1.png',
 				},
 				{
 					name: 'Sue Yamakawa',
 					role: 'Web developer',
-					avatar: '/avatar-2.png',
+					avatar: './avatar-2.png',
 				},
 				{
 					name: 'Michael Smith',
 					role: 'Social media maverick',
-					avatar: '/avatar-3.png',
+					avatar: './avatar-3.png',
 				},
 				{
 					name: 'Ryoko Watanabe',
 					role: 'Web developer',
-					avatar: '/avatar-4.png',
+					avatar: './avatar-4.png',
 				},
 				{
 					name: 'Jiyoung Kim',
 					role: 'Sales guru',
-					avatar: '/avatar-5.png',
+					avatar: './avatar-5.png',
 				},
 			],
 		};
